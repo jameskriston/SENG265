@@ -1,0 +1,31 @@
+2025-10-09 12:12:35.556 [info] Started local extension host with pid 18376.
+2025-10-09 12:12:36.299 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Fg.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:429:29219)
+    at Fg.updateChildren (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:429:29000)
+    at Bae.value (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2620:33782)
+    at E.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.D (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at CEe.setVisible (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:569:2730)
+    at hft.ub (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:595:15789)
+    at Bae.value (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:595:11858)
+    at E.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+2025-10-09 12:12:36.399 [error] [Extension Host] (node:18376) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2025-10-09 12:12:36.625 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-09 12:12:37.232 [info] Settings Sync: Account status changed from uninitialized to available
+2025-10-09 12:12:39.340 [info] [perf] Render performance baseline is 18ms
+2025-10-09 12:12:39.350 [error] [Extension Host] (node:18376) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-10-09 12:12:39.422 [error] cannot open file:///h%3A/School/UVIC%20FALL%202025/SENG265/Lab5/lab05-starter/vcpkg-configuration.json. Detail: Unable to read file 'h:\School\UVIC FALL 2025\SENG265\Lab5\lab05-starter\vcpkg-configuration.json' (Error: Unable to resolve nonexistent file 'h:\School\UVIC FALL 2025\SENG265\Lab5\lab05-starter\vcpkg-configuration.json')
+2025-10-09 12:12:39.461 [error] chatParticipant must be declared in package.json: claude-code
+2025-10-09 12:51:23.993 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-09 12:51:23.993 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-10-09 12:51:24.271 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-10-09 12:54:17.709 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-09 12:54:17.817 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-10-09 12:54:35.670 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-09 12:54:35.748 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-10-09 13:00:00.407 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-09 13:02:59.603 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-09 13:02:59.604 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-10-09 13:02:59.708 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

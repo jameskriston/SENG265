@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "matlab.interrupt"
+    ],
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "bottom",
+    "C_Cpp.default.compilerPath": "",
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+    "chat.agent.thinkingStyle": "none",
+    "python.globalModuleInstallation": true,
+    "editor.experimentalGpuAcceleration": "on"
+}

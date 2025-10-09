@@ -1,0 +1,112 @@
+{
+    "telemetry.machineId": "60c996423c869f575fa4dd8886b167f8e6525788fbf5d7c1ffba8b0a0d0ed9ce",
+    "telemetry.sqmId": "{3025A8BC-EE58-4C65-A839-054993DA076C}",
+    "telemetry.devDeviceId": "bd1b8212-929c-4751-ab14-4a7eef39562d",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1760041032428"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///h%3A/tedykokerguitarpedal": "__default__profile__",
+            "file:///h%3A/tedykokerguitarpedal/pedalnet-master": "__default__profile__",
+            "file:///h%3A/REPO": "__default__profile__",
+            "file:///h%3A/School/UVIC%20FALL%202025/SENG265/A1/a1-main": "__default__profile__",
+            "file:///h%3A/School/UVIC%20FALL%202025/SENG265/A1": "__default__profile__",
+            "file:///h%3A/School/UVIC%20FALL%202025/ECE255": "__default__profile__",
+            "file:///h%3A/School/UVIC%20FALL%202025/SENG265/Lab5/lab05-starter": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1760041032428": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "C:\\Users\\Jams\\AppData\\Roaming\\Code\\Backups\\1760041032428",
+            "uiState": {
+                "mode": 0,
+                "x": 420,
+                "y": 368,
+                "width": 1224,
+                "height": 832
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 331,
+            "auxiliaryBarWidth": 347,
+            "workspaces": {
+                "b022f8c6c23b1759d244364150857dea": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "8f035c2c7e91ba1222d69497230e109f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "b4736a1144efc07f5d33bb5b2e51d695": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "75349888dff61ecfcea58221d7a586ff": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "65ce6f7a54d0b46134373d83521ad46b": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "b47243f30ecfa36136415200664303cd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "1f8a485fb6d463d3ab53ada45d772fa4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "8ee5182ac2671df8789dec2ff1af10d7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "dceb25da6a7781c17cd6de27fe5ee211": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

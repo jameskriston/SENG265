@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "matlab.interrupt"
+    ],
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "bottom",
+    "C_Cpp.default.compilerPath": "",
+    "workbench.colorTheme": "Default High Contrast"
+}

@@ -1,0 +1,9 @@
+2025-10-09 11:45:37.150 [info] Started local extension host with pid 19400.
+2025-10-09 11:45:38.082 [error] [Extension Host] (node:19400) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `Code --trace-warnings ...` to show where the warning was created)
+2025-10-09 11:45:38.169 [error] [Extension Host] (node:19400) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2025-10-09 11:45:38.782 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-09 11:45:39.912 [info] Settings Sync: Account status changed from uninitialized to available
+2025-10-09 11:45:40.394 [error] chatParticipant must be declared in package.json: claude-code
+2025-10-09 11:45:40.974 [info] [perf] Render performance baseline is 18ms
+2025-10-09 11:45:42.309 [error] cannot open file:///h%3A/School/UVIC%20FALL%202025/SENG265/Lab5/lab05-starter/vcpkg-configuration.json. Detail: Unable to read file 'h:\School\UVIC FALL 2025\SENG265\Lab5\lab05-starter\vcpkg-configuration.json' (Error: Unable to resolve nonexistent file 'h:\School\UVIC FALL 2025\SENG265\Lab5\lab05-starter\vcpkg-configuration.json')

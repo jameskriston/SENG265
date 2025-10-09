@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "matlab.interrupt"
+    ],
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "bottom"
+}

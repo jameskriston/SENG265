@@ -1,0 +1,13 @@
+2025-10-09 13:24:51.505 [info] Started local extension host with pid 20668.
+2025-10-09 13:24:52.021 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-09 13:24:52.194 [info] Settings Sync: Account status changed from uninitialized to available
+2025-10-09 13:24:52.647 [error] [Extension Host] (node:20668) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `Code --trace-warnings ...` to show where the warning was created)
+2025-10-09 13:24:53.936 [error] chatParticipant must be declared in package.json: claude-code
+2025-10-09 13:24:54.005 [info] [perf] Render performance baseline is 18ms
+2025-10-09 13:24:54.241 [error] [Extension Host] (node:20668) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2025-10-09 13:24:58.281 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-09 13:24:58.281 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-10-09 13:24:58.432 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-10-09 13:25:04.136 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-09 13:25:04.209 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

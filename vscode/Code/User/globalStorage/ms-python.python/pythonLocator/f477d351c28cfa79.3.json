@@ -1,0 +1,24 @@
+{
+  "environment": {
+    "executable": "C:\\Users\\Jams\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "prefix": "C:\\Users\\Jams\\AppData\\Local\\Programs\\Python\\Python39",
+    "version": "3.9.0.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "C:\\Users\\Jams\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    ]
+  },
+  "symlinks": [
+    [
+      "C:\\Users\\Jams\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+      {
+        "secs_since_epoch": 1601941620,
+        "nanos_since_epoch": 0
+      },
+      {
+        "secs_since_epoch": 1601941620,
+        "nanos_since_epoch": 0
+      }
+    ]
+  ]
+}

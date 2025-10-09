@@ -1,0 +1,40 @@
+2025-10-09 11:43:25.590 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-10-09 11:43:25.590 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-10-09 11:43:25.590 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-10-09 11:43:25.590 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-10-09 11:43:25.675 [info] Logged in as jameskriston
+2025-10-09 11:43:25.678 [info] Using the Electron fetcher.
+2025-10-09 11:43:26.132 [info] Got Copilot token for jameskriston
+2025-10-09 11:43:26.132 [info] Copilot Chat: 0.32.0, VS Code: 1.105.0
+2025-10-09 11:43:26.139 [info] activationBlocker from 'languageModelAccess' took for 486ms
+2025-10-09 11:43:26.177 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-10-09 11:43:26.177 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-10-09 11:43:26.187 [info] Registering default platform agent...
+2025-10-09 11:43:26.188 [info] [code-referencing] Public code references are enabled.
+2025-10-09 11:43:26.188 [info] activationBlocker from 'conversationFeature' took for 537ms
+2025-10-09 11:43:26.198 [info] Logged in as jameskriston
+2025-10-09 11:43:26.282 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-10-09 11:43:26.489 [info] Fetched model metadata in 828ms 92c82258-2f88-49d5-bb19-d00f55d71b21
+2025-10-09 11:43:26.561 [info] Latest entry: ccreq:latest.copilotmd
+2025-10-09 11:43:26.561 [info] ccreq:285b51d0.copilotmd | markdown
+2025-10-09 11:43:26.572 [info] Got Copilot token for jameskriston
+2025-10-09 11:43:26.572 [info] Copilot Chat: 0.32.0, VS Code: 1.105.0
+2025-10-09 11:43:26.656 [info] Fetched auto model in 94ms.
+2025-10-09 11:43:30.521 [info] message 0 returned. finish reason: [stop]
+2025-10-09 11:43:30.521 [info] request done: requestId: [1b91747c-dd6a-4028-b85d-a30c22e63c2d] model deployment ID: []
+2025-10-09 11:43:30.522 [info] ccreq:9f0a381d.copilotmd | success | gpt-4.1 | 1528ms | [panel/editAgent]
+2025-10-09 11:43:30.857 [info] message 0 returned. finish reason: [stop]
+2025-10-09 11:43:30.857 [info] request done: requestId: [601b68d2-0e60-4cff-82a6-fad0449a757e] model deployment ID: []
+2025-10-09 11:43:30.858 [info] ccreq:e6fbc30d.copilotmd | success | gpt-4o-mini | 328ms | [title]
+2025-10-09 11:43:31.914 [info] Refetch model metadata: Succeeded in 325ms 21cc2046-80ec-4251-812c-f67e97b4b963 (C94B:118B77:12B31D:163674:68E80254) using node-http with status 200.
+2025-10-09 11:43:32.241 [info] Refetch model metadata: Succeeded in 327ms fa0d015a-5f13-4de2-b6ac-fb81e21d7c73 (C94C:27255A:119A05:15034E:68E80255) using node-fetch with status 200.
+2025-10-09 11:43:32.559 [info] Refetch model metadata: Succeeded in 317ms 0cc69aa5-77d4-497f-9ce2-d5b6df145c42 (C94E:30A653:1253CF:15DD79:68E80255) using electron-fetch with status 200.
+2025-10-09 11:43:57.057 [info] message 0 returned. finish reason: [stop]
+2025-10-09 11:43:57.057 [info] request done: requestId: [9854fc61-7933-41dc-8ef3-7d682943f026] model deployment ID: []
+2025-10-09 11:43:57.057 [info] ccreq:e1e9c08e.copilotmd | success | gpt-4o-mini | 314ms | [intentDetection]
+2025-10-09 11:43:57.428 [info] message 0 returned. finish reason: [stop]
+2025-10-09 11:43:57.428 [info] request done: requestId: [eeaca995-3789-4923-a3ac-3cfa8c14c102] model deployment ID: []
+2025-10-09 11:43:57.429 [info] ccreq:a95c3e5e.copilotmd | success | gpt-4o-mini | 353ms | [vscodePrompt]
+2025-10-09 11:44:05.549 [info] message 0 returned. finish reason: [stop]
+2025-10-09 11:44:05.550 [info] request done: requestId: [c2ef09cc-1c8e-4449-8567-341338ae8b6d] model deployment ID: []
+2025-10-09 11:44:05.550 [info] ccreq:7984ba4f.copilotmd | success | gpt-4.1 | 912ms | [panel/vscode]

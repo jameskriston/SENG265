@@ -1,0 +1,62 @@
+2025-10-09 11:25:33.948 [info] Started local extension host with pid 25472.
+2025-10-09 11:25:34.787 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-09 11:25:35.770 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Fg.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:429:29219)
+    at Fg.updateChildren (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:429:29000)
+    at Bae.value (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2620:33782)
+    at E.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.D (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at CEe.setVisible (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:569:2730)
+    at hft.ub (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:595:15789)
+    at Bae.value (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:595:11858)
+    at E.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+2025-10-09 11:25:35.925 [info] Settings Sync: Account status changed from uninitialized to available
+2025-10-09 11:25:36.564 [error] Failed to fetch token entitlements Server returned 403
+2025-10-09 11:25:36.890 [error] [Extension Host] (node:25472) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2025-10-09 11:25:36.987 [info] Auto updating outdated extensions. ms-python.debugpy, ms-python.python
+2025-10-09 11:25:37.668 [info] [perf] Render performance baseline is 18ms
+2025-10-09 11:25:38.199 [error] cannot open file:///h%3A/School/UVIC%20FALL%202025/SENG265/A1/vcpkg-configuration.json. Detail: Unable to read file 'h:\School\UVIC FALL 2025\SENG265\A1\vcpkg-configuration.json' (Error: Unable to resolve nonexistent file 'h:\School\UVIC FALL 2025\SENG265\A1\vcpkg-configuration.json')
+2025-10-09 11:26:36.384 [info] Started local extension host with pid 17224.
+2025-10-09 11:26:36.860 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-09 11:26:36.950 [info] Settings Sync: Account status changed from uninitialized to available
+2025-10-09 11:26:37.315 [error] [Extension Host] (node:17224) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2025-10-09 11:26:37.370 [error] Failed to fetch token entitlements Server returned 403
+2025-10-09 11:26:39.031 [info] [perf] Render performance baseline is 18ms
+2025-10-09 11:26:51.387 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-09 11:26:51.430 [info] Started local extension host with pid 2400.
+2025-10-09 11:26:51.769 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-09 11:26:51.965 [info] Settings Sync: Account status changed from uninitialized to available
+2025-10-09 11:26:52.304 [error] Failed to fetch token entitlements Server returned 403
+2025-10-09 11:26:54.189 [info] [perf] Render performance baseline is 18ms
+2025-10-09 11:26:54.887 [error] [Extension Host] (node:2400) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2025-10-09 11:26:55.990 [error] cannot open file:///h%3A/School/UVIC%20FALL%202025/SENG265/Lab5/lab05-starter/vcpkg-configuration.json. Detail: Unable to read file 'h:\School\UVIC FALL 2025\SENG265\Lab5\lab05-starter\vcpkg-configuration.json' (Error: Unable to resolve nonexistent file 'h:\School\UVIC FALL 2025\SENG265\Lab5\lab05-starter\vcpkg-configuration.json')
+2025-10-09 11:27:16.164 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Fg.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:429:29219)
+    at Fg.updateChildren (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:429:29000)
+    at Bae.value (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2620:33782)
+    at E.C (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.D (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at CEe.setVisible (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:569:2730)
+    at vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:595:13938
+    at Array.map (<anonymous>)
+    at hft.setVisible (vscode-file://vscode-app/f:/VSCODE/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:595:13929)
+2025-10-09 11:29:32.909 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:29:42.727 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:29:43.019 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:29:43.434 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:29:43.698 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:29:43.963 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:29:44.857 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:30:11.907 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:30:12.241 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:30:17.212 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:30:17.993 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:30:18.774 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:30:19.139 [warning] [LM] No provider registered for vendor copilot
+2025-10-09 11:43:23.456 [error] [Extension Host] (node:2400) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-10-09 11:43:25.671 [error] chatParticipant must be declared in package.json: claude-code
