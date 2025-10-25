@@ -52,6 +52,6 @@ test1(list_ptr,format); //run test 1
 test2(list_ptr,format); //run test 2
 test3(list_ptr,format); //run test 3
 free(format); //free all memory
-free(list_ptr); 
+free_list(list_ptr); 
 return 0;
 }
