@@ -1,0 +1,33 @@
+typedef struct Respondent;
+typedef struct Response;
+typedef struct Survey_list;
+ 
+struct Respondent
+{
+    char* program;     // their school program as a string
+    char* status;      // their citizenship/immigration status
+};
+
+struct Response {
+    int *answers;      // int array to hold a value between 1-4 for their answer to a question. the index of the array represents the question number
+    Respondent* respondent;
+    Response* next;
+};
+
+ struct Survey_list
+{
+    Response *front;          // front of survey list
+    char ** questions;     // arary of strings to hold each question
+    char **question_options; // an array of strings to hold each possible answer
+    char ** programs
+    char **citizenship     
+    int total_programs; // int for amount of different possible programs
+    int total_citizenships; // int for amount of different possible citizenships                        
+    int total_options;     // int for amount of different possible answers (disagree,                                  
+    int total_questions;   // int for total amount of questions 
+};    
+
+
+
+so it mostly works, need to fix my agreement_percent in processing.c also probably my average responses function
+seems to be a good start though.
